@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectKiloNova</string>
+    <string name="app_title">Project KiloNova (Kitchen Sink-Mobile)</string>
+    <string name="dest_ip_label">Dest. IP:</string>
+    <string name="dest_port_label">Dest. Port:</string>
+    <string name="listening_port_label">Listening Port:</string>
+    <string name="local_ip_label">Local WLAN ip:</string>
+    <string name="opn_btn_label">Open</string>
+    <string name="close_btn_label">Close</string>
+</resources>
